@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.htwsaar.pimsar.grp10
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, consul, data, data-jpa, discovery-consul, flyway, hibernate-jpa, http-client, java, java-application, jdbc-hikari, junit, kafka, logback, lombok, management, maven, micrometer, micrometer-prometheus, netty-server, openapi, postgres, readme, shade, testcontainers, yaml]
